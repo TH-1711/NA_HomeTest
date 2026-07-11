@@ -1,0 +1,7 @@
+requests
+markdownify
+python-slugify
+openai>=1.50
+python-dotenv
+tiktoken
+urllib3
